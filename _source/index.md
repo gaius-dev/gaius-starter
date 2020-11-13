@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Gaius Starter Template
-author: Robert Strube
+author: Firstname Lastname
 keywords: Gaius, Static Site Generator, Starter Template
 description: Gaius Starter Template Homepage
 ...
 
 ## Gaius Starter Template
 
-Use this starter template to begin creating a site using the Gaius static site generator platform
+Use this starter template to begin creating a site using the Gaius static site generation platform.
