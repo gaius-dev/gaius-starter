@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+  {% include '_head' %}
+
+  <body>
+
+    {% include '_nav' %}
+    
+    <div class="container pt-5 pb-5">
+
+      <section class="mb-5">
+        <!-- Content here -->
+        {{page.content}}
+      </section>
+
+      <!-- This loops through the paginated posts -->
+      {% for post in paginator.posts %}
+        <section class="mb-5">
+          <h3>{{ post.title }}</h3>
+          {{ post.teaser }}
+          <div>
+            <a href="{{ post.url }}" class="btn btn-primary" role="button" aria-disabled="true">Read More</a>
+          </div>
+        </section>
+      {% endfor %}
+
+    </div>
+    
+    {% include '_footer' %}
+
+  </body>
+</html>
