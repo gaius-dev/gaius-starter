@@ -4,6 +4,7 @@ title: Gaius Starter Template Sample Post 2
 author: Firstname Lastname
 keywords: Gaius, Static Site Generator, Starter Template, Sample Post
 description: Gaius Starter Template Sample Post
+tags: ["TagA", "TagB"]
 ...
 
 # Sample Post 2
