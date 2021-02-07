@@ -3,7 +3,7 @@ layout: blog
 title: Gaius Starter Template Blog
 author: Firstname Lastname
 keywords: Gaius, Static Site Generator, Starter Template, Blog
-description: Gaius Starter Template Homepage
+description: Gaius Starter Template Blog
 ...
 
 # Gaius Starter Template Blog

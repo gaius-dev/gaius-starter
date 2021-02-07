@@ -10,17 +10,9 @@
     <div class="container pt-5 pb-5">
 
       <section class="mb-5">
+        <h1>{{ paginator.associated_tag.name }} Posts</h1>
         <!-- Content here -->
         {{ page.content }}
-      </section>
-
-      <section class="mb-5">
-        <h3>Tag List</h3>
-        <div>
-          {% for tag in site.tags %}
-              <a href="{{ tag.url }}" class="btn btn-primary btn-sm" role="button">{{ tag.name }}</a>
-          {% endfor %}
-        </div>
       </section>
 
       <!-- This loops through the paginated posts -->
@@ -36,7 +28,7 @@
         </section>
       {% endfor %}
 
-      <nav aria-label="Blog navigation">
+      <nav aria-label="Tag listing navigation">
         <ul class="pagination justify-content-center">
           {% if paginator.previous_page %}
             <li class="page-item">
