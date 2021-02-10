@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dedicated Page 1
-author: John Doe
+author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Dedicated Page
 description: Gaius Starter Site Sample Dedicated Page
 ...

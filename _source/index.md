@@ -1,7 +1,7 @@
 ---
 layout: bloglist
 title: Gaius Starter Site
-author: John Doe
+author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site
 description: Gaius Starter Site
 ...
