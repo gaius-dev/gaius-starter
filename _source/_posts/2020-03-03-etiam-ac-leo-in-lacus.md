@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Post 6
-author: John Doe
+title: Etiam Ac Leo In Lacus
+author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
 description: Gaius Starter Site Sample Post
-tags: ["Tag A", "Tag D", "Tag E"]
+tags: ["Pharetra", "Vulputate", "Hendrerit"]
 ...
-
-# Post 6
 
 This is a sample post.
 

@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Post 7
-author: John Doe
+title: Dolor Sit Amet
+author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
 description: Gaius Starter Site Sample Post
-tags: ["Tag A", "Tag E"]
+tags: ["Pharetra", "Vulputate"]
 ...
-
-# Post 7
 
 This is a sample post.
 

@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Post 5
-author: John Doe
+title: Faucibus Egestas In Vitae Orci 
+author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
 description: Gaius Starter Site Sample Post
-tags: ["Tag C", "Tag D"]
+tags: ["Pharetra", "Aenean"]
 ...
-
-# Post 5
 
 This is a sample post.
 

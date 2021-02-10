@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Post 4
-author: John Doe
+title: Lorem Ipsum
+author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
 description: Gaius Starter Site Sample Post
-tags: ["Tag A", "Tag B", "Tag E"]
+tags: ["Pharetra", "Interdum"]
 ...
-
-# Post 4
 
 This is a sample post.
 

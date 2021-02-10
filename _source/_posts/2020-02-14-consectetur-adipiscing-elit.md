@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Post 1
-author: John Doe
+title: Consectetur Adipiscing Elit
+author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
 description: Gaius Starter Site Sample Post
-tags: ["Tag A", "Tag B"]
+tags: ["Pharetra", "Interdum", "Vulputate"]
 ...
-
-# Post 1
 
 This is a sample post.
 

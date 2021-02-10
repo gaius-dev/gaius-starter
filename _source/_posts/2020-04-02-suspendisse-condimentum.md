@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Post 3
-author: John Doe
+title: Suspendisse Condimentum
+author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
 description: Gaius Starter Site Sample Post
-tags: ["Tag A", "Tag B", "Tag C"]
+tags: ["Pharetra", "Aenean", "Hendrerit"]
 ...
-
-# Post 3
 
 This is a sample post.
 
