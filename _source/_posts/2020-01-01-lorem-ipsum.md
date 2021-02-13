@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Lorem Ipsum
 author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post

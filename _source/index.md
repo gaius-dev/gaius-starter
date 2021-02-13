@@ -1,5 +1,5 @@
 ---
-layout: bloglist
+layout: postlist
 title: Gaius Starter Site
 author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site

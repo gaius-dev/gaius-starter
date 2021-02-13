@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Faucibus Egestas In Vitae Orci 
 author: Julius Caesar
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
