@@ -1,18 +1,14 @@
 ---
-layout: post
-title: Consectetur Adipiscing Elit
+layout: default
+title: About Julius Caesar
 author: Julius Caesar
-author_url: /pages/authors/julius-caesar/
-keywords: Gaius, Static Site Generator, Starter Site, Sample Post
-description: Gaius Starter Site Sample Post
-tags: ["Pharetra", "Interdum", "Vulputate"]
+keywords: Gaius, Static Site Generator, Starter Site, Sample Author Page
+description: Gaius Starter Site Sample Author Page
 ...
 
-This is a sample post.
+This is a sample about the author page.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac leo in lacus faucibus egestas in vitae orci. Suspendisse condimentum id eros id ultrices. Praesent lacinia nibh vitae tortor finibus interdum. Sed pharetra nec nisi et interdum. Sed vulputate, velit hendrerit porttitor condimentum, enim arcu aliquet nulla, vel finibus tellus ipsum vel lectus. Sed eu commodo risus. Phasellus commodo nisl ut risus volutpat, quis imperdiet ipsum porttitor. Aenean laoreet nisi sodales sem porta venenatis. Morbi pharetra vestibulum velit ullamcorper sodales. Sed eleifend risus magna, eget sollicitudin velit volutpat eget. Pellentesque a neque non nisi pellentesque elementum quis auctor turpis. Quisque vitae tortor nibh. Ut vulputate risus vel risus sagittis efficitur. Nunc id tempor erat, sit amet lacinia erat.
-
-<!--more-->
 
 Nullam consectetur erat mollis, blandit tortor quis, porta erat. Nulla vel eleifend felis. Morbi placerat erat sed erat pellentesque consectetur. Mauris ac iaculis odio. Sed quis neque id odio pretium hendrerit sit amet vitae purus. Curabitur mattis nisi ultrices turpis convallis, ut ullamcorper ex ultricies. Nunc varius malesuada tristique. Sed ac hendrerit magna. Nunc fringilla dictum dui, non fermentum elit convallis in. Sed vitae est ac diam imperdiet pellentesque.
 

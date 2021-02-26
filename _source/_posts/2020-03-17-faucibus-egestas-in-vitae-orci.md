@@ -2,6 +2,7 @@
 layout: post
 title: Faucibus Egestas In Vitae Orci 
 author: Julius Caesar
+author_url: /pages/authors/julius-caesar/
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
 description: Gaius Starter Site Sample Post
 tags: ["Pharetra", "Aenean"]
