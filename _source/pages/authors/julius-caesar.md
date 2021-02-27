@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: author
 title: About Julius Caesar
 author: Julius Caesar
+author_image: /images/julius-caesar.jpg
 keywords: Gaius, Static Site Generator, Starter Site, Sample Author Page
 description: Gaius Starter Site Sample Author Page
 ...

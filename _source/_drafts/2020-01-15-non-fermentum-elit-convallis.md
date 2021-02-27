@@ -2,7 +2,8 @@
 layout: post
 title: Non Fermentum Elit Convallis
 author: Julius Caesar
-author_url: /pages/authors/julius-caesar/
+author_page: /pages/authors/julius-caesar/
+author_image: /images/julius-caesar.jpg
 keywords: Gaius, Static Site Generator, Starter Site, Sample Post
 description: Gaius Starter Site Sample Post
 tags: ["Pharetra", "Accumsan"]
