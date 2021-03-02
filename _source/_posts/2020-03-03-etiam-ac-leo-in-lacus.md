@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Etiam Ac Leo In Lacus
+image: /images/posts/germanien.jpg
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
 author_image: /images/julius-caesar.jpg

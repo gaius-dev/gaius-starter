@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lorem Ipsum
+image: /images/posts/roman-temple.jpg
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
 author_image: /images/julius-caesar.jpg

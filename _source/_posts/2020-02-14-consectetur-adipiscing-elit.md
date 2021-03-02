@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Consectetur Adipiscing Elit
+image: /images/posts/cleopatra.jpg
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
 author_image: /images/julius-caesar.jpg

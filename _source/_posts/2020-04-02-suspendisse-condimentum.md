@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Suspendisse Condimentum
+image: /images/posts/roman-soldier.jpg
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
 author_image: /images/julius-caesar.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Id Eros Id Ultrices 
+title: Id Eros Id Ultrices
+image: /images/posts/roman-eagle-standard.jpg 
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
 author_image: /images/julius-caesar.jpg

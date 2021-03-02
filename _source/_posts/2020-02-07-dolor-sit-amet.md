@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dolor Sit Amet
+image: /images/posts/roman-gladius.jpg
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
 author_image: /images/julius-caesar.jpg
