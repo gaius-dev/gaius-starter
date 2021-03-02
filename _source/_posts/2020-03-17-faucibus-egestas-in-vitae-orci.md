@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Faucibus Egestas In Vitae Orci 
-author: Julius Caesar
 image: /images/posts/roman-soldier-tall.jpg
+teaser_image: /images/posts/teaser/roman-soldier-tall.jpg
+author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
 author_image: /images/julius-caesar.jpg
-keywords: Gaius, Static Site Generator, Starter Site, Sample Post
-description: Gaius Starter Site Sample Post
+keywords: Gaius, Static Site Generator, Example Site, Example Post
+description: Gaius Example Site Example Post
 tags: ["Pharetra", "Aenean"]
 ...
 

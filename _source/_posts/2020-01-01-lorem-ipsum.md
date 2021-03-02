@@ -2,11 +2,12 @@
 layout: post
 title: Lorem Ipsum
 image: /images/posts/roman-temple.jpg
+teaser_image: /images/posts/teaser/roman-temple.jpg
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
 author_image: /images/julius-caesar.jpg
-keywords: Gaius, Static Site Generator, Starter Site, Sample Post
-description: Gaius Starter Site Sample Post
+keywords: Gaius, Static Site Generator, Example Site, Example Post
+description: Gaius Example Site Example Post
 tags: ["Pharetra", "Interdum"]
 ...
 
