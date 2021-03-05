@@ -1,19 +1,16 @@
 ---
-layout: post
-title: Suspendisse Condimentum
-image: /images/posts/roman-soldier.jpg
-teaser_image: /images/posts/teaser/roman-soldier.jpg
-author: Julius Caesar
-author_page: /pages/authors/julius-caesar/
-author_image: /images/julius-caesar.jpg
-keywords: Gaius, Static Site Generator, Example Site, Example Post
-description: Gaius Example Site Example Post
-tags: ["Pharetra", "Aenean", "Hendrerit"]
+layout: author
+title: About Firstname Lastname
+author: Firstname Lastname
+author_image: /images/author.png
+keywords: Gaius, Static Site Generator, Starter Site, Example Author Page
+description: Gaius Starter Site Author Page
+nav_order: 2.2
 ...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac leo in lacus faucibus egestas in vitae orci. Suspendisse condimentum id eros id ultrices. Praesent lacinia nibh vitae tortor finibus interdum. Sed pharetra nec nisi et interdum. Sed vulputate, velit hendrerit porttitor condimentum, enim arcu aliquet nulla, vel finibus tellus ipsum vel lectus. Sed eu commodo risus. Phasellus commodo nisl ut risus volutpat, quis imperdiet ipsum porttitor. Aenean laoreet nisi sodales sem porta venenatis. Morbi pharetra vestibulum velit ullamcorper sodales. Sed eleifend risus magna, eget sollicitudin velit volutpat eget. Pellentesque a neque non nisi pellentesque elementum quis auctor turpis. Quisque vitae tortor nibh. Ut vulputate risus vel risus sagittis efficitur. Nunc id tempor erat, sit amet lacinia erat.
+This is a sample about the author page.
 
-<!--more-->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac leo in lacus faucibus egestas in vitae orci. Suspendisse condimentum id eros id ultrices. Praesent lacinia nibh vitae tortor finibus interdum. Sed pharetra nec nisi et interdum. Sed vulputate, velit hendrerit porttitor condimentum, enim arcu aliquet nulla, vel finibus tellus ipsum vel lectus. Sed eu commodo risus. Phasellus commodo nisl ut risus volutpat, quis imperdiet ipsum porttitor. Aenean laoreet nisi sodales sem porta venenatis. Morbi pharetra vestibulum velit ullamcorper sodales. Sed eleifend risus magna, eget sollicitudin velit volutpat eget. Pellentesque a neque non nisi pellentesque elementum quis auctor turpis. Quisque vitae tortor nibh. Ut vulputate risus vel risus sagittis efficitur. Nunc id tempor erat, sit amet lacinia erat.
 
 Nullam consectetur erat mollis, blandit tortor quis, porta erat. Nulla vel eleifend felis. Morbi placerat erat sed erat pellentesque consectetur. Mauris ac iaculis odio. Sed quis neque id odio pretium hendrerit sit amet vitae purus. Curabitur mattis nisi ultrices turpis convallis, ut ullamcorper ex ultricies. Nunc varius malesuada tristique. Sed ac hendrerit magna. Nunc fringilla dictum dui, non fermentum elit convallis in. Sed vitae est ac diam imperdiet pellentesque.
 
