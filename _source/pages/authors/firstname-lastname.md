@@ -5,7 +5,6 @@ author: Firstname Lastname
 author_image: /images/author.png
 keywords: Gaius, Static Site Generator, Starter Site, Example Author Page
 description: Gaius Starter Site Author Page
-nav_order: 2.2
 ...
 
 This is a sample about the author page.
