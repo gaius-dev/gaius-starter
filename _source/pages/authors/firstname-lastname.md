@@ -2,7 +2,7 @@
 layout: author
 title: About Firstname Lastname
 author: Firstname Lastname
-author_image: /images/author.png
+author_image: /images/author.webp
 keywords: Gaius, Static Site Generator, Starter Site, Example Author Page
 description: Gaius Starter Site Author Page
 ...
